@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work as a Software Engineer @tekenlightSolutions<br>🔭 I’m currently working on transcribeApps(Reactjs,typescript,tailwind,redux,nextjs)<br>👯 I’m looking to collaborate on web3 projects, webapps<br>🌱 I’m currently learning  : web3<br>💬 Ask me about Anything<br>
+I work as a Software Engineer @tekenlightSolutions<br>🔭 I’m currently working on transcribeApps(Reactjs,typescript,tailwind,redux,nextjs,expressjs,postgreseSql)<br>👯 I’m looking to collaborate on web3 projects, webapps<br>🌱 I’m currently learning  : web3<br>💬 Ask me about Anything<br>
 
 
 ## 🌐 Socials:
